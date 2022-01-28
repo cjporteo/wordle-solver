@@ -1,5 +1,5 @@
 # wordle-solver
-Simple CLI utility to help you solve Wordle puzzles.
+Simple CLI utility built in Python to help you solve Wordle puzzles.
 
 ## Requirements 📦
 Requires Python 3.x, as well as package requirements listed in `requirements.txt`.
