@@ -18,8 +18,8 @@ To install required packages (after cloning and navigating to project directory)
  - 🟡 **Yellow** (right letter, wrong place): enter letter in lower case, followed by an asterisk, e.g. `a*`
  - ⚫ **Black** (letter is not in word): enter letter in lower case, with no asterisk, e.g.`a`
 
-### Example
-![](https://raw.githubusercontent.com/cjporteo/wordle-solver/main/readme_assets/example.png)
+### Example:
+![](https://raw.githubusercontent.com/cjporteo/wordle-solver/main/readme_assets/example.png)<br /> <br />
 `b O U r n*`
 
 ## Sample usage ⌨️
