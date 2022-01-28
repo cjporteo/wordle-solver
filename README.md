@@ -28,9 +28,13 @@ Candidate words are provided in a random order, but arranged to give priority to
 For this sample exercise, the first candidate word is always the one chosen as the next guess. This is done for simplicity, but isn't required.
 
 ![](https://raw.githubusercontent.com/cjporteo/wordle-solver/main/readme_assets/app_1.png)
-![](https://raw.githubusercontent.com/cjporteo/wordle-solver/main/readme_assets/phone_1.png)![](https://raw.githubusercontent.com/cjporteo/wordle-solver/main/readme_assets/app_2.png)![](https://raw.githubusercontent.com/cjporteo/wordle-solver/main/readme_assets/phone_2.png)
-![](https://raw.githubusercontent.com/cjporteo/wordle-solver/main/readme_assets/app_3.png)![](https://raw.githubusercontent.com/cjporteo/wordle-solver/main/readme_assets/phone_3.png)
-![](https://raw.githubusercontent.com/cjporteo/wordle-solver/main/readme_assets/app_4.png)![](https://raw.githubusercontent.com/cjporteo/wordle-solver/main/readme_assets/phone_4.png)
+![](https://raw.githubusercontent.com/cjporteo/wordle-solver/main/readme_assets/phone_1.png)
+![](https://raw.githubusercontent.com/cjporteo/wordle-solver/main/readme_assets/app_2.png)
+![](https://raw.githubusercontent.com/cjporteo/wordle-solver/main/readme_assets/phone_2.png)
+![](https://raw.githubusercontent.com/cjporteo/wordle-solver/main/readme_assets/app_3.png)
+![](https://raw.githubusercontent.com/cjporteo/wordle-solver/main/readme_assets/phone_3.png)
+![](https://raw.githubusercontent.com/cjporteo/wordle-solver/main/readme_assets/app_4.png)
+![](https://raw.githubusercontent.com/cjporteo/wordle-solver/main/readme_assets/phone_4.png)
 ![](https://raw.githubusercontent.com/cjporteo/wordle-solver/main/readme_assets/app_5.png)
 ![](https://raw.githubusercontent.com/cjporteo/wordle-solver/main/readme_assets/phone_5.png)
 ## Some implementation details
