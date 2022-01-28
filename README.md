@@ -9,9 +9,9 @@ To install required packages (after cloning and navigating to project directory)
 
 **Note:** doing this in a virtual or conda environment is recommended.
 ## Installation and run instructions
-`git clone https://github.com/cjporteo/wordle-solver.git`
-`cd wordle-solver`
-`python wordle.py`
+`git clone https://github.com/cjporteo/wordle-solver.git`<br />
+`cd wordle-solver`<br />
+`python wordle.py`<br />
 
 ## Syntax for entering clues
  - 🟢 **Green** (right letter, right place): enter letter in upper case, e.g. `A`
