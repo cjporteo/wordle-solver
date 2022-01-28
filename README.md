@@ -44,6 +44,7 @@ For this sample exercise, the first candidate word is always the one chosen as t
 
 ## What's next? ⏱️
 I'd like to build upon this utility and develop it into an analysis piece, hopefully being able to concretely outline strong Wordle guessing strategies (probably using Monte-Carlo and minimax trees to achieve this, not quite sure).
+
 Also, wrapping this utility into a frontend service would be another good next step.
 
 > Written with [StackEdit](https://stackedit.io/).
