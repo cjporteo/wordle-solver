@@ -27,16 +27,16 @@ Candidate words are provided in a random order, but arranged to give priority to
 
 For this sample exercise, the first candidate word is always the one chosen as the next guess. This is done for simplicity, but isn't required.
 
-![](https://raw.githubusercontent.com/cjporteo/wordle-solver/main/readme_assets/app_1.png)<br /> 
-![](https://raw.githubusercontent.com/cjporteo/wordle-solver/main/readme_assets/phone_1.png)<br /> 
-![](https://raw.githubusercontent.com/cjporteo/wordle-solver/main/readme_assets/app_2.png)<br /> 
-![](https://raw.githubusercontent.com/cjporteo/wordle-solver/main/readme_assets/phone_2.png)<br /> 
-![](https://raw.githubusercontent.com/cjporteo/wordle-solver/main/readme_assets/app_3.png)<br /> 
-![](https://raw.githubusercontent.com/cjporteo/wordle-solver/main/readme_assets/phone_3.png)<br /> 
-![](https://raw.githubusercontent.com/cjporteo/wordle-solver/main/readme_assets/app_4.png)<br /> 
-![](https://raw.githubusercontent.com/cjporteo/wordle-solver/main/readme_assets/phone_4.png)<br /> 
-![](https://raw.githubusercontent.com/cjporteo/wordle-solver/main/readme_assets/app_5.png)<br /> 
-![](https://raw.githubusercontent.com/cjporteo/wordle-solver/main/readme_assets/phone_5.png)<br /> 
+![](https://raw.githubusercontent.com/cjporteo/wordle-solver/main/readme_assets/app_1.png)<br /> <br /> 
+![](https://raw.githubusercontent.com/cjporteo/wordle-solver/main/readme_assets/phone_1.png)<br /> <br /> 
+![](https://raw.githubusercontent.com/cjporteo/wordle-solver/main/readme_assets/app_2.png)<br /> <br /> 
+![](https://raw.githubusercontent.com/cjporteo/wordle-solver/main/readme_assets/phone_2.png)<br /> <br /> 
+![](https://raw.githubusercontent.com/cjporteo/wordle-solver/main/readme_assets/app_3.png)<br /> <br /> 
+![](https://raw.githubusercontent.com/cjporteo/wordle-solver/main/readme_assets/phone_3.png)<br /> <br /> 
+![](https://raw.githubusercontent.com/cjporteo/wordle-solver/main/readme_assets/app_4.png)<br /> <br /> 
+![](https://raw.githubusercontent.com/cjporteo/wordle-solver/main/readme_assets/phone_4.png)<br /> <br /> 
+![](https://raw.githubusercontent.com/cjporteo/wordle-solver/main/readme_assets/app_5.png)<br /> <br /> 
+![](https://raw.githubusercontent.com/cjporteo/wordle-solver/main/readme_assets/phone_5.png)<br /> <br /> 
 ## Some implementation details
 
  - There's no guarantee that the word list used in this exercise is 1:1 with the one used on Wordle's backend. This means that this utility might sometimes suggest candidate words that aren't considered valid by Wordle. It's also possible (but highly unlikely) that a target word in Wordle might not be included in our word list.
