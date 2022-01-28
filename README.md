@@ -4,7 +4,7 @@ Simple CLI utility built in Python to help you solve Wordle puzzles.
 ## Requirements 📦
 Requires Python 3.x, as well as package requirements listed in `requirements.txt`.
 
-To install required packages (after cloning and navigating to project directory):
+To install required packages (after cloning and navigating to project directory): <br />
 `pip install -r requirements.txt`
 
 **Note:** doing this in a virtual or conda environment is recommended.
